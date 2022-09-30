@@ -15,7 +15,7 @@ info:
     $ref: ./info-description.md
 tags:
   - name: Echo
-    description: Example echo operations.
+    description: Example echo operations test change description.
   - name: User
     description: Operations about users.
   - name: Tag
