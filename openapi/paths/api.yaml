@@ -1,0 +1,6 @@
+post:
+  tags:
+    - API test option
+  summary: API test
+  description: Receive the exact message you've sent
+  operationId: apiItem
